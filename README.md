@@ -16,6 +16,5 @@ Script Ini Mungkin Masih Banyak Kekurangan , Karena Saya Masih Belajar Juga Teri
 ### SUBSCRIBE & FOLLOW SAYA !
 <p>
     <a href="https://www.youtube.com/channel/UCme204gftypglXk2vJiInhA" target="blank"><img src="https://img.shields.io/badge/YOUTUBE%3A-ACAM%20NATAKENSHI-red" /></a>
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCzl4me0YC0wS6CW94Al4wJQ?style=social" /><br>
-    <a href="https://wa.me/6285724875555?text=Halo%20gw%20real%20pemilik%20channel%20H20%AzzamCyber" target="blank"><img src="https://img.shields.io/badge/Whatsapp-Klik%20untuk%20hubungi%20gw-green" /></a></br>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UUCme204gftypglXk2vJiInhA?style=social" /><br>
 </p>
