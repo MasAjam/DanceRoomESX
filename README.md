@@ -16,5 +16,5 @@ Script Ini Mungkin Masih Banyak Kekurangan , Karena Saya Masih Belajar Juga Teri
 ### SUBSCRIBE & FOLLOW SAYA !
 <p>
     <a href="https://www.youtube.com/channel/UCme204gftypglXk2vJiInhA" target="blank"><img src="https://img.shields.io/badge/YOUTUBE%3A-ACAM%20NATAKENSHI-red" /></a>
-    <img src="https://img.shields.io/youtube/channel/subscribers/UUCme204gftypglXk2vJiInhA?style=social" /><br>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCme204gftypglXk2vJiInhA?style=social" /><br>
 </p>
