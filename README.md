@@ -6,7 +6,8 @@ Script Ini Mungkin Masih Banyak Kekurangan , Karena Saya Masih Belajar Juga Teri
  - Membuat Danceroom / Dance Barengan 
 
 ## Developed by Natakenshi Developer
-
+Gunakan Secara Baik , Kalau Berguna Jangan Lupa Join Discord Saya Untuk Info Script Lainnya Pokoknya Gratis
+<a href='https://discord.gg/gn5a6z97Tc'>Discord</a>
 ## Cara Pakai Script
 - Untuk Membuat Danceroom [ /daceroom create (number 1-25) ]
 - Untuk Join Danceroom [ /danceroom join (1-25) ]
